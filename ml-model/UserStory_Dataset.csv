@@ -1,0 +1,501 @@
+Task Title,Description (User story/ Problem description),Estimated Hours,Story Points,Difficulty Level,Priority,Status,Required Skills
+Perform regression testing,"Review requirements, specifications and technical design documents.",46,13,Medium,High,In Progress,Quality Assurance;Bug Tracking;Testing
+Data cleaning,Propose solutions and strategies to business challenges.,63,11,Medium,Medium,Review,Statistics;Machine Learning;Python
+Automate test scripts,"Identify, record, document thoroughly and track bugs.",52,2,Medium,Low,Done,Bug Tracking;Selenium;Testing
+Create project plan,Develop a detailed project plan to monitor and track progress.,34,7,Easy,Medium,Done,Agile;Leadership;Planning
+Code review,Develop and implement new software programs.,15,7,Hard,Medium,In Progress,C++;JavaScript;Java
+Create project plan,Develop a detailed project plan to monitor and track progress.,30,8,Easy,High,Done,Communication;Agile;Leadership
+Deploy model to production,Build predictive models and machine-learning algorithms.,36,4,Medium,High,Review,Statistics;Data Analysis;Python
+Fix bug Y,Recommend improvements to existing software programs as necessary.,25,2,Easy,High,Done,Python;JavaScript;Java
+Automate deployment process,Implement integrations requested by customers.,63,10,Easy,Medium,To Do,Linux;CI/CD;AWS
+Write unit tests,Write and maintain software documentation.,6,7,Hard,Medium,In Progress,C++;Java;SQL
+Implement feature X,Recommend improvements to existing software programs as necessary.,39,5,Medium,Medium,Done,SQL;Java;C++
+Conduct system testing,Liaise with users to track additional requirements and features.,29,3,Easy,Medium,Done,SQL;Requirements Analysis;System Design
+Ensure system security,Deploy updates and fixes.,38,4,Hard,High,Done,Docker;CI/CD;AWS
+Report bugs,"Identify, record, document thoroughly and track bugs.",19,5,Hard,Low,Done,Quality Assurance;Bug Tracking;Testing
+Report bugs,"Identify, record, document thoroughly and track bugs.",23,1,Easy,Low,In Progress,Testing;Automation;Selenium
+Create project plan,"Ensure that all projects are delivered on-time, within scope and within budget.",36,10,Medium,High,To Do,Communication;Scrum;Planning
+Perform regression testing,"Design, develop and execute automation scripts.",67,9,Easy,Medium,Review,Bug Tracking;Testing;Automation
+Execute test plans,"Identify, record, document thoroughly and track bugs.",35,13,Medium,Medium,In Progress,Quality Assurance;Automation;Bug Tracking
+Risk assessment,"Define project scope, goals and deliverables.",8,1,Easy,Low,Done,Scrum;Communication;Leadership
+Update project status,Coordinate internal resources and third parties/vendors.,47,2,Medium,Low,In Progress,Planning;Communication;Agile
+Ensure system security,Perform root cause analysis for production errors.,15,3,Easy,Low,To Do,Linux;AWS;Docker
+Execute test plans,"Design, develop and execute automation scripts.",33,2,Hard,Low,Review,Selenium;Quality Assurance;Testing
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",53,6,Easy,High,Review,Scrum;Leadership;Planning
+Implement feature X,Write and maintain software documentation.,52,7,Hard,Low,Review,JavaScript;Python;SQL
+Design system architecture,Analyze and evaluate current systems.,35,9,Medium,Low,In Progress,Testing;System Design;SQL
+Monitor system performance,Perform root cause analysis for production errors.,41,12,Medium,Medium,Done,Kubernetes;AWS;CI/CD
+Analyze system requirements,Collaborate with IT team and developers to produce new systems.,53,5,Medium,High,In Progress,Requirements Analysis;System Design;Testing
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",31,10,Medium,High,To Do,Scrum;Communication;Leadership
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",72,13,Hard,High,Done,Communication;Planning;Agile
+Gather user requirements,Identify system requirements.,26,8,Medium,Medium,Review,SQL;UML;Requirements Analysis
+Gather user requirements,Analyze and evaluate current systems.,44,11,Easy,High,In Progress,UML;System Design;Testing
+Create project plan,"Manage changes to the project scope, project schedule, and project costs.",53,7,Medium,High,Review,Communication;Scrum;Leadership
+Refactor module Z,Collaborate with other developers on projects.,7,13,Easy,Low,To Do,SQL;JavaScript;C++
+Write unit tests,Collaborate with other developers on projects.,21,9,Medium,Medium,In Progress,SQL;Java;Python
+Create project plan,Develop a detailed project plan to monitor and track progress.,16,2,Medium,Low,In Progress,Agile;Leadership;Communication
+Design system architecture,Identify system requirements.,52,13,Medium,Low,Done,System Design;SQL;Testing
+Conduct stakeholder meeting,"Define project scope, goals and deliverables.",42,10,Medium,High,In Progress,Leadership;Communication;Scrum
+Ensure system security,Perform root cause analysis for production errors.,24,5,Easy,Low,Done,CI/CD;Linux;Docker
+Refactor module Z,Recommend improvements to existing software programs as necessary.,27,13,Medium,Medium,To Do,Java;SQL;JavaScript
+Set up CI/CD pipeline,Perform root cause analysis for production errors.,57,5,Medium,Medium,Review,Linux;CI/CD;Kubernetes
+Train machine learning model,Analyze large amounts of information to discover trends and patterns.,19,2,Medium,High,In Progress,Data Analysis;Machine Learning;Python
+Perform regression testing,"Review requirements, specifications and technical design documents.",25,4,Medium,Medium,Done,Testing;Automation;Selenium
+Update project status,"Define project scope, goals and deliverables.",65,13,Easy,High,To Do,Scrum;Agile;Planning
+Risk assessment,"Ensure that all projects are delivered on-time, within scope and within budget.",17,4,Medium,Medium,In Progress,Planning;Agile;Scrum
+Automate test scripts,"Create detailed, comprehensive and well-structured test plans and test cases.",64,8,Medium,Medium,Done,Automation;Testing;Quality Assurance
+Create system documentation,Collaborate with IT team and developers to produce new systems.,37,6,Hard,Medium,Review,System Design;Testing;UML
+Resource allocation,Develop a detailed project plan to monitor and track progress.,32,13,Medium,Medium,To Do,Agile;Scrum;Leadership
+Create project plan,"Manage changes to the project scope, project schedule, and project costs.",45,5,Easy,Low,In Progress,Communication;Agile;Leadership
+Data cleaning,Present information using data visualization techniques.,17,12,Medium,Low,Review,R;Python;Machine Learning
+Monitor system performance,Perform root cause analysis for production errors.,49,1,Easy,Low,Done,Docker;AWS;Linux
+Perform regression testing,"Review requirements, specifications and technical design documents.",32,6,Medium,Medium,To Do,Bug Tracking;Quality Assurance;Automation
+Automate deployment process,Deploy updates and fixes.,63,6,Medium,High,To Do,CI/CD;Kubernetes;AWS
+Write test cases,"Identify, record, document thoroughly and track bugs.",63,8,Easy,Low,Done,Testing;Bug Tracking;Quality Assurance
+Analyze system requirements,Analyze and evaluate current systems.,28,6,Medium,Medium,Done,SQL;System Design;Requirements Analysis
+Train machine learning model,Present information using data visualization techniques.,40,7,Easy,High,Review,Data Analysis;Statistics;R
+Code review,Write and maintain software documentation.,46,12,Easy,High,In Progress,C++;Java;JavaScript
+Create system documentation,Analyze and evaluate current systems.,61,2,Medium,Medium,In Progress,Testing;System Design;Requirements Analysis
+Write test cases,"Estimate, prioritize, plan and coordinate testing activities.",13,8,Medium,Medium,Review,Selenium;Bug Tracking;Testing
+Conduct stakeholder meeting,"Ensure that all projects are delivered on-time, within scope and within budget.",46,3,Medium,High,Review,Scrum;Agile;Communication
+Resource allocation,"Define project scope, goals and deliverables.",57,8,Hard,Medium,Review,Agile;Scrum;Leadership
+Data cleaning,Present information using data visualization techniques.,32,9,Medium,Medium,To Do,Machine Learning;Data Analysis;R
+Automate test scripts,"Design, develop and execute automation scripts.",16,10,Easy,Medium,To Do,Quality Assurance;Automation;Selenium
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",67,1,Medium,High,Review,Scrum;Communication;Agile
+Design system architecture,Identify system requirements.,56,10,Hard,Low,In Progress,System Design;UML;Testing
+Write unit tests,Collaborate with other developers on projects.,50,3,Hard,High,Review,JavaScript;Java;Python
+Analyze system requirements,Collaborate with IT team and developers to produce new systems.,32,10,Hard,Medium,To Do,UML;Requirements Analysis;Testing
+Analyze system requirements,Collaborate with IT team and developers to produce new systems.,5,8,Medium,Medium,Review,System Design;UML;SQL
+Code review,Collaborate with other developers on projects.,13,10,Hard,High,Done,Java;C++;Python
+Analyze system requirements,Liaise with users to track additional requirements and features.,47,13,Medium,High,In Progress,UML;Requirements Analysis;SQL
+Gather user requirements,Liaise with users to track additional requirements and features.,44,12,Medium,High,To Do,UML;SQL;System Design
+Gather user requirements,Liaise with users to track additional requirements and features.,22,12,Hard,High,In Progress,UML;System Design;SQL
+Write unit tests,Write and maintain software documentation.,24,2,Hard,Medium,To Do,SQL;JavaScript;C++
+Report bugs,"Create detailed, comprehensive and well-structured test plans and test cases.",51,13,Hard,Low,To Do,Bug Tracking;Quality Assurance;Automation
+Write unit tests,Maintain and improve the performance of existing software.,11,4,Easy,Low,Done,JavaScript;Java;C++
+Write unit tests,Collaborate with other developers on projects.,10,3,Hard,Medium,In Progress,Python;SQL;JavaScript
+Automate test scripts,"Review requirements, specifications and technical design documents.",34,12,Medium,Low,To Do,Testing;Selenium;Quality Assurance
+Design system architecture,Collaborate with IT team and developers to produce new systems.,44,9,Easy,High,Review,Requirements Analysis;Testing;System Design
+Execute test plans,"Review requirements, specifications and technical design documents.",22,10,Hard,Low,In Progress,Bug Tracking;Quality Assurance;Automation
+Perform EDA,Propose solutions and strategies to business challenges.,31,10,Medium,Medium,Review,Data Analysis;Machine Learning;Statistics
+Design system architecture,Analyze and evaluate current systems.,68,12,Medium,Medium,Review,Testing;SQL;System Design
+Analyze system requirements,Identify system requirements.,12,1,Medium,Medium,Review,Requirements Analysis;UML;System Design
+Create system documentation,Identify system requirements.,35,6,Hard,Medium,In Progress,System Design;Testing;SQL
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,17,12,Hard,Low,In Progress,R;Python;Statistics
+Analyze system requirements,Identify system requirements.,53,7,Medium,Medium,Done,Testing;Requirements Analysis;System Design
+Deploy model to production,Build predictive models and machine-learning algorithms.,35,8,Easy,High,To Do,Data Analysis;R;Statistics
+Conduct stakeholder meeting,"Define project scope, goals and deliverables.",71,6,Easy,High,Done,Planning;Communication;Scrum
+Risk assessment,"Ensure that all projects are delivered on-time, within scope and within budget.",33,5,Medium,Low,Review,Planning;Communication;Scrum
+Conduct stakeholder meeting,"Ensure that all projects are delivered on-time, within scope and within budget.",47,1,Hard,High,Review,Scrum;Planning;Leadership
+Execute test plans,"Identify, record, document thoroughly and track bugs.",65,11,Easy,Low,In Progress,Bug Tracking;Selenium;Quality Assurance
+Write unit tests,Maintain and improve the performance of existing software.,60,4,Easy,Medium,To Do,SQL;Java;Python
+Create project plan,"Ensure that all projects are delivered on-time, within scope and within budget.",54,6,Medium,Medium,Review,Planning;Communication;Scrum
+Manage cloud infrastructure,Deploy updates and fixes.,36,8,Medium,Medium,Done,Docker;Kubernetes;CI/CD
+Update project status,Coordinate internal resources and third parties/vendors.,6,3,Hard,Low,In Progress,Communication;Leadership;Scrum
+Fix bug Y,Write and maintain software documentation.,16,1,Medium,Low,To Do,SQL;Python;C++
+Report bugs,"Design, develop and execute automation scripts.",19,1,Easy,Medium,In Progress,Automation;Quality Assurance;Bug Tracking
+Implement feature X,Recommend improvements to existing software programs as necessary.,9,3,Easy,High,To Do,SQL;Java;Python
+Design system architecture,Document interfaces between new and legacy systems.,10,2,Medium,Medium,To Do,Testing;System Design;SQL
+Execute test plans,"Review requirements, specifications and technical design documents.",68,2,Medium,Low,Review,Testing;Bug Tracking;Automation
+Train machine learning model,Build predictive models and machine-learning algorithms.,33,2,Easy,High,Review,Python;Data Analysis;R
+Monitor system performance,Perform root cause analysis for production errors.,17,10,Easy,Medium,Done,Kubernetes;Linux;Docker
+Automate deployment process,Perform root cause analysis for production errors.,36,7,Easy,Low,Done,CI/CD;Linux;Docker
+Automate test scripts,"Estimate, prioritize, plan and coordinate testing activities.",30,12,Easy,Low,To Do,Automation;Testing;Quality Assurance
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,55,2,Easy,Low,Review,Machine Learning;Python;Data Analysis
+Data cleaning,Analyze large amounts of information to discover trends and patterns.,13,12,Medium,High,Review,Statistics;Python;R
+Monitor system performance,Deploy updates and fixes.,17,11,Medium,High,Review,Kubernetes;AWS;Linux
+Create project plan,Coordinate internal resources and third parties/vendors.,38,9,Easy,High,Done,Agile;Leadership;Communication
+Implement feature X,Write and maintain software documentation.,38,7,Easy,High,To Do,Python;Java;C++
+Automate test scripts,"Review requirements, specifications and technical design documents.",51,8,Medium,Medium,In Progress,Automation;Bug Tracking;Testing
+Perform EDA,Analyze large amounts of information to discover trends and patterns.,54,2,Hard,Medium,In Progress,Statistics;R;Python
+Fix bug Y,Maintain and improve the performance of existing software.,30,2,Easy,Low,Review,C++;Python;Java
+Manage cloud infrastructure,Build tools to reduce occurrences of errors and improve customer experience.,16,3,Easy,Low,In Progress,Linux;Kubernetes;AWS
+Fix bug Y,Maintain and improve the performance of existing software.,60,11,Medium,Medium,To Do,C++;Java;SQL
+Analyze system requirements,Collaborate with IT team and developers to produce new systems.,36,6,Easy,Low,To Do,Requirements Analysis;UML;Testing
+Perform regression testing,"Estimate, prioritize, plan and coordinate testing activities.",22,6,Medium,High,To Do,Automation;Testing;Selenium
+Data cleaning,Present information using data visualization techniques.,59,12,Hard,Medium,Review,R;Data Analysis;Machine Learning
+Implement feature X,Maintain and improve the performance of existing software.,46,9,Easy,High,Done,JavaScript;Python;SQL
+Monitor system performance,Perform root cause analysis for production errors.,7,10,Easy,High,In Progress,CI/CD;Docker;AWS
+Code review,Write and maintain software documentation.,41,10,Easy,Medium,Review,Java;JavaScript;C++
+Set up CI/CD pipeline,Deploy updates and fixes.,58,11,Medium,Low,To Do,AWS;Linux;Docker
+Fix bug Y,Maintain and improve the performance of existing software.,27,3,Easy,Low,Review,Python;JavaScript;SQL
+Create system documentation,Collaborate with IT team and developers to produce new systems.,30,5,Hard,Medium,Review,UML;Requirements Analysis;System Design
+Monitor system performance,Deploy updates and fixes.,63,6,Hard,High,Done,Kubernetes;Linux;AWS
+Refactor module Z,Write and maintain software documentation.,16,5,Medium,Low,To Do,SQL;Java;C++
+Deploy model to production,Build predictive models and machine-learning algorithms.,67,3,Medium,High,In Progress,Machine Learning;Data Analysis;Statistics
+Refactor module Z,Develop and implement new software programs.,64,10,Hard,Low,Review,SQL;Java;C++
+Gather user requirements,Document interfaces between new and legacy systems.,32,7,Medium,Low,Review,Testing;SQL;Requirements Analysis
+Execute test plans,"Identify, record, document thoroughly and track bugs.",48,6,Medium,High,Review,Automation;Selenium;Quality Assurance
+Resource allocation,Develop a detailed project plan to monitor and track progress.,10,1,Easy,High,Review,Scrum;Agile;Planning
+Monitor system performance,Investigate and resolve technical issues.,32,5,Medium,Medium,Review,AWS;Docker;Linux
+Create project plan,"Define project scope, goals and deliverables.",28,10,Hard,Medium,Done,Planning;Agile;Communication
+Create project plan,Coordinate internal resources and third parties/vendors.,71,7,Hard,Low,Review,Agile;Leadership;Planning
+Build predictive model,Build predictive models and machine-learning algorithms.,58,10,Medium,Low,Done,Machine Learning;Statistics;R
+Automate deployment process,Perform root cause analysis for production errors.,52,10,Hard,Medium,Done,AWS;Linux;Kubernetes
+Set up CI/CD pipeline,Perform root cause analysis for production errors.,42,8,Easy,High,Review,Kubernetes;Docker;AWS
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,38,3,Hard,Low,In Progress,R;Data Analysis;Python
+Refactor module Z,Collaborate with other developers on projects.,23,9,Medium,Low,Review,C++;Python;JavaScript
+Gather user requirements,Liaise with users to track additional requirements and features.,67,12,Medium,High,Done,UML;SQL;Requirements Analysis
+Automate deployment process,Implement integrations requested by customers.,53,3,Easy,Medium,In Progress,Kubernetes;AWS;Docker
+Update project status,Coordinate internal resources and third parties/vendors.,54,1,Medium,Medium,Review,Planning;Agile;Leadership
+Gather user requirements,Liaise with users to track additional requirements and features.,11,10,Hard,Low,To Do,Testing;UML;Requirements Analysis
+Deploy model to production,Build predictive models and machine-learning algorithms.,41,11,Easy,Low,To Do,Statistics;Machine Learning;Data Analysis
+Gather user requirements,Document interfaces between new and legacy systems.,24,2,Medium,Low,Review,System Design;UML;Requirements Analysis
+Ensure system security,Implement integrations requested by customers.,67,3,Easy,High,In Progress,CI/CD;Kubernetes;AWS
+Code review,Collaborate with other developers on projects.,30,11,Medium,High,In Progress,SQL;Java;JavaScript
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",24,7,Hard,Low,Done,Scrum;Communication;Agile
+Deploy model to production,Propose solutions and strategies to business challenges.,63,1,Medium,High,To Do,Machine Learning;Python;Data Analysis
+Write test cases,"Identify, record, document thoroughly and track bugs.",56,5,Easy,High,In Progress,Automation;Bug Tracking;Selenium
+Analyze system requirements,Analyze and evaluate current systems.,14,3,Medium,Low,In Progress,SQL;Testing;UML
+Data cleaning,Build predictive models and machine-learning algorithms.,60,13,Hard,Medium,Review,Data Analysis;Python;Statistics
+Build predictive model,Build predictive models and machine-learning algorithms.,47,1,Hard,Medium,To Do,R;Data Analysis;Machine Learning
+Execute test plans,"Create detailed, comprehensive and well-structured test plans and test cases.",6,11,Easy,Low,Review,Bug Tracking;Quality Assurance;Selenium
+Gather user requirements,Collaborate with IT team and developers to produce new systems.,12,5,Hard,High,In Progress,System Design;SQL;Requirements Analysis
+Write unit tests,Collaborate with other developers on projects.,40,5,Easy,High,Done,C++;Java;JavaScript
+Implement feature X,Develop and implement new software programs.,13,8,Easy,Medium,To Do,SQL;JavaScript;Python
+Write test cases,"Review requirements, specifications and technical design documents.",13,5,Easy,High,Done,Bug Tracking;Quality Assurance;Automation
+Resource allocation,"Define project scope, goals and deliverables.",28,4,Medium,Low,To Do,Scrum;Planning;Communication
+Gather user requirements,Identify system requirements.,37,11,Medium,High,To Do,Testing;SQL;System Design
+Refactor module Z,Write and maintain software documentation.,22,3,Medium,Medium,To Do,SQL;Java;Python
+Write unit tests,Recommend improvements to existing software programs as necessary.,43,3,Medium,High,Review,C++;JavaScript;Python
+Design system architecture,Document interfaces between new and legacy systems.,45,12,Easy,Low,To Do,SQL;System Design;Requirements Analysis
+Execute test plans,"Create detailed, comprehensive and well-structured test plans and test cases.",42,13,Hard,Medium,Review,Testing;Selenium;Bug Tracking
+Data cleaning,Build predictive models and machine-learning algorithms.,63,12,Hard,Low,Review,Machine Learning;Python;Statistics
+Code review,Write and maintain software documentation.,48,4,Easy,Low,Review,C++;Java;SQL
+Automate test scripts,"Create detailed, comprehensive and well-structured test plans and test cases.",37,13,Medium,Low,Done,Testing;Quality Assurance;Bug Tracking
+Code review,Write and maintain software documentation.,61,5,Easy,Low,Review,SQL;Java;Python
+Automate test scripts,"Design, develop and execute automation scripts.",17,3,Medium,High,To Do,Automation;Quality Assurance;Bug Tracking
+Risk assessment,"Manage changes to the project scope, project schedule, and project costs.",40,3,Easy,High,To Do,Planning;Communication;Agile
+Set up CI/CD pipeline,Investigate and resolve technical issues.,36,1,Easy,High,To Do,Linux;CI/CD;Kubernetes
+Automate test scripts,"Design, develop and execute automation scripts.",8,3,Easy,High,Done,Quality Assurance;Bug Tracking;Selenium
+Perform regression testing,"Identify, record, document thoroughly and track bugs.",9,5,Easy,High,In Progress,Quality Assurance;Testing;Selenium
+Write unit tests,Recommend improvements to existing software programs as necessary.,35,10,Medium,High,Done,Python;JavaScript;Java
+Conduct stakeholder meeting,"Ensure that all projects are delivered on-time, within scope and within budget.",21,3,Medium,High,Review,Scrum;Agile;Communication
+Write test cases,"Design, develop and execute automation scripts.",17,5,Medium,Medium,In Progress,Quality Assurance;Bug Tracking;Automation
+Automate test scripts,"Identify, record, document thoroughly and track bugs.",47,13,Easy,Medium,Review,Testing;Selenium;Bug Tracking
+Code review,Maintain and improve the performance of existing software.,6,11,Hard,High,In Progress,C++;Python;JavaScript
+Perform regression testing,"Review requirements, specifications and technical design documents.",59,7,Hard,High,Review,Automation;Quality Assurance;Bug Tracking
+Create project plan,"Ensure that all projects are delivered on-time, within scope and within budget.",29,12,Easy,Low,To Do,Agile;Scrum;Leadership
+Write test cases,"Design, develop and execute automation scripts.",33,10,Easy,High,Review,Testing;Automation;Quality Assurance
+Build predictive model,Combine models through ensemble modeling.,64,4,Easy,Low,To Do,Python;Machine Learning;Data Analysis
+Code review,Maintain and improve the performance of existing software.,37,8,Easy,High,To Do,SQL;Java;C++
+Design system architecture,Analyze and evaluate current systems.,9,6,Easy,Low,To Do,UML;Requirements Analysis;Testing
+Design system architecture,Identify system requirements.,51,3,Medium,Low,Done,SQL;Testing;System Design
+Implement feature X,Maintain and improve the performance of existing software.,25,8,Easy,Medium,To Do,SQL;Java;C++
+Create system documentation,Document interfaces between new and legacy systems.,43,13,Medium,Medium,Done,Testing;UML;System Design
+Write unit tests,Develop and implement new software programs.,51,12,Hard,Medium,In Progress,Java;SQL;JavaScript
+Risk assessment,"Define project scope, goals and deliverables.",47,13,Easy,High,Review,Planning;Communication;Scrum
+Gather user requirements,Collaborate with IT team and developers to produce new systems.,42,10,Medium,Low,Review,SQL;Testing;Requirements Analysis
+Update project status,Develop a detailed project plan to monitor and track progress.,51,12,Easy,Low,Done,Planning;Agile;Scrum
+Deploy model to production,Propose solutions and strategies to business challenges.,17,12,Medium,High,Review,Python;Data Analysis;R
+Write unit tests,Write and maintain software documentation.,28,10,Easy,High,To Do,JavaScript;SQL;Python
+Report bugs,"Create detailed, comprehensive and well-structured test plans and test cases.",25,5,Hard,Medium,In Progress,Selenium;Testing;Quality Assurance
+Risk assessment,Coordinate internal resources and third parties/vendors.,14,12,Hard,Medium,Done,Scrum;Planning;Communication
+Manage cloud infrastructure,Perform root cause analysis for production errors.,17,7,Hard,Low,Review,Linux;Docker;CI/CD
+Risk assessment,"Define project scope, goals and deliverables.",11,12,Medium,Low,Done,Communication;Agile;Leadership
+Perform regression testing,"Design, develop and execute automation scripts.",28,9,Hard,Low,Done,Quality Assurance;Automation;Selenium
+Conduct system testing,Collaborate with IT team and developers to produce new systems.,61,6,Hard,Low,Review,UML;System Design;Testing
+Conduct system testing,Identify system requirements.,38,7,Hard,High,To Do,System Design;Testing;Requirements Analysis
+Resource allocation,Develop a detailed project plan to monitor and track progress.,55,9,Easy,Low,In Progress,Leadership;Communication;Scrum
+Deploy model to production,Combine models through ensemble modeling.,5,12,Medium,Low,To Do,Statistics;Python;R
+Monitor system performance,Perform root cause analysis for production errors.,46,2,Hard,Medium,To Do,Linux;Docker;AWS
+Execute test plans,"Design, develop and execute automation scripts.",29,1,Easy,Low,Done,Selenium;Testing;Quality Assurance
+Conduct stakeholder meeting,"Ensure that all projects are delivered on-time, within scope and within budget.",25,9,Medium,Medium,Done,Scrum;Communication;Leadership
+Deploy model to production,Combine models through ensemble modeling.,45,4,Medium,Low,In Progress,R;Machine Learning;Python
+Perform EDA,Propose solutions and strategies to business challenges.,34,3,Medium,Medium,In Progress,Machine Learning;Data Analysis;Python
+Execute test plans,"Estimate, prioritize, plan and coordinate testing activities.",16,8,Easy,Low,Review,Bug Tracking;Selenium;Automation
+Monitor system performance,Deploy updates and fixes.,44,1,Medium,Low,In Progress,Docker;AWS;Kubernetes
+Perform regression testing,"Create detailed, comprehensive and well-structured test plans and test cases.",10,13,Hard,Low,To Do,Quality Assurance;Selenium;Automation
+Manage cloud infrastructure,Perform root cause analysis for production errors.,62,9,Hard,Low,To Do,Docker;Linux;CI/CD
+Refactor module Z,Collaborate with other developers on projects.,62,12,Easy,High,Review,JavaScript;SQL;C++
+Analyze system requirements,Document interfaces between new and legacy systems.,49,10,Easy,Medium,Done,SQL;System Design;UML
+Write unit tests,Develop and implement new software programs.,66,12,Easy,Low,Done,Java;Python;C++
+Data cleaning,Combine models through ensemble modeling.,29,12,Medium,Medium,In Progress,Statistics;Data Analysis;Machine Learning
+Resource allocation,"Define project scope, goals and deliverables.",66,12,Medium,Medium,To Do,Planning;Leadership;Communication
+Implement feature X,Collaborate with other developers on projects.,22,6,Hard,Low,To Do,Java;C++;JavaScript
+Risk assessment,Develop a detailed project plan to monitor and track progress.,58,6,Medium,High,In Progress,Leadership;Planning;Agile
+Write unit tests,Write and maintain software documentation.,29,1,Easy,Medium,To Do,Java;SQL;C++
+Deploy model to production,Propose solutions and strategies to business challenges.,59,1,Medium,High,To Do,Statistics;R;Python
+Write unit tests,Write and maintain software documentation.,72,2,Hard,High,In Progress,Python;SQL;C++
+Code review,Collaborate with other developers on projects.,42,6,Medium,Medium,Review,SQL;C++;Python
+Monitor system performance,Implement integrations requested by customers.,17,3,Hard,Low,To Do,Kubernetes;AWS;Linux
+Create system documentation,Collaborate with IT team and developers to produce new systems.,9,4,Easy,High,Review,SQL;Testing;System Design
+Report bugs,"Review requirements, specifications and technical design documents.",25,12,Medium,Medium,In Progress,Testing;Quality Assurance;Automation
+Design system architecture,Document interfaces between new and legacy systems.,58,8,Easy,Low,Done,SQL;UML;Testing
+Create system documentation,Analyze and evaluate current systems.,21,2,Medium,High,Review,System Design;Requirements Analysis;SQL
+Manage cloud infrastructure,Investigate and resolve technical issues.,29,13,Medium,Medium,In Progress,Linux;CI/CD;AWS
+Perform regression testing,"Estimate, prioritize, plan and coordinate testing activities.",26,10,Medium,Medium,In Progress,Automation;Quality Assurance;Selenium
+Implement feature X,Maintain and improve the performance of existing software.,15,6,Medium,High,Review,C++;Python;SQL
+Build predictive model,Present information using data visualization techniques.,35,5,Easy,Medium,Review,Statistics;Data Analysis;Machine Learning
+Implement feature X,Write and maintain software documentation.,54,4,Hard,Medium,Done,C++;SQL;Java
+Fix bug Y,Recommend improvements to existing software programs as necessary.,34,7,Easy,Low,Review,Python;SQL;JavaScript
+Implement feature X,Write and maintain software documentation.,57,7,Medium,Medium,Done,C++;JavaScript;SQL
+Execute test plans,"Review requirements, specifications and technical design documents.",44,10,Medium,Low,Done,Selenium;Bug Tracking;Testing
+Set up CI/CD pipeline,Build tools to reduce occurrences of errors and improve customer experience.,7,4,Easy,Low,Review,AWS;Kubernetes;Linux
+Conduct stakeholder meeting,Develop a detailed project plan to monitor and track progress.,53,6,Easy,High,Review,Communication;Agile;Scrum
+Train machine learning model,Propose solutions and strategies to business challenges.,28,12,Medium,Low,In Progress,Data Analysis;Python;Statistics
+Code review,Recommend improvements to existing software programs as necessary.,55,11,Easy,Medium,To Do,JavaScript;Python;SQL
+Conduct stakeholder meeting,Coordinate internal resources and third parties/vendors.,43,3,Medium,Medium,Review,Agile;Communication;Scrum
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",45,6,Hard,High,To Do,Leadership;Communication;Planning
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",71,3,Hard,Medium,In Progress,Agile;Planning;Leadership
+Conduct system testing,Document interfaces between new and legacy systems.,46,13,Medium,High,To Do,Requirements Analysis;Testing;System Design
+Analyze system requirements,Analyze and evaluate current systems.,7,13,Hard,Medium,Review,System Design;Testing;Requirements Analysis
+Conduct stakeholder meeting,Coordinate internal resources and third parties/vendors.,64,12,Easy,High,In Progress,Agile;Communication;Planning
+Automate deployment process,Perform root cause analysis for production errors.,69,4,Easy,Low,Review,CI/CD;Docker;AWS
+Fix bug Y,Recommend improvements to existing software programs as necessary.,21,8,Hard,High,In Progress,Python;SQL;C++
+Analyze system requirements,Collaborate with IT team and developers to produce new systems.,11,7,Medium,Low,Done,SQL;Testing;UML
+Conduct system testing,Liaise with users to track additional requirements and features.,58,11,Hard,High,To Do,System Design;Testing;Requirements Analysis
+Train machine learning model,Propose solutions and strategies to business challenges.,22,3,Medium,Low,In Progress,Python;R;Statistics
+Report bugs,"Design, develop and execute automation scripts.",48,6,Easy,High,In Progress,Testing;Selenium;Quality Assurance
+Create project plan,"Define project scope, goals and deliverables.",38,7,Hard,High,In Progress,Communication;Planning;Agile
+Refactor module Z,Recommend improvements to existing software programs as necessary.,23,3,Hard,High,Done,Java;C++;JavaScript
+Write unit tests,Develop and implement new software programs.,48,6,Easy,Low,Done,SQL;C++;Python
+Risk assessment,Coordinate internal resources and third parties/vendors.,29,10,Medium,Low,Done,Planning;Communication;Agile
+Design system architecture,Collaborate with IT team and developers to produce new systems.,70,13,Hard,Low,Done,Testing;System Design;UML
+Monitor system performance,Deploy updates and fixes.,5,11,Hard,High,Review,CI/CD;Docker;Linux
+Automate test scripts,"Review requirements, specifications and technical design documents.",23,10,Hard,Low,Review,Quality Assurance;Testing;Automation
+Deploy model to production,Build predictive models and machine-learning algorithms.,20,1,Medium,Low,Done,Statistics;Python;R
+Perform regression testing,"Review requirements, specifications and technical design documents.",62,13,Medium,Low,In Progress,Automation;Bug Tracking;Quality Assurance
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",27,8,Hard,Low,To Do,Communication;Agile;Scrum
+Resource allocation,Develop a detailed project plan to monitor and track progress.,12,9,Hard,High,Done,Planning;Communication;Scrum
+Implement feature X,Write and maintain software documentation.,40,9,Medium,High,Done,SQL;Python;Java
+Write unit tests,Develop and implement new software programs.,28,4,Medium,Medium,Review,Python;Java;C++
+Gather user requirements,Document interfaces between new and legacy systems.,64,13,Medium,High,To Do,UML;Testing;System Design
+Gather user requirements,Identify system requirements.,16,3,Medium,Medium,Review,SQL;Testing;System Design
+Perform regression testing,"Design, develop and execute automation scripts.",69,9,Easy,High,In Progress,Automation;Quality Assurance;Testing
+Execute test plans,"Review requirements, specifications and technical design documents.",42,13,Hard,Low,In Progress,Automation;Quality Assurance;Testing
+Manage cloud infrastructure,Investigate and resolve technical issues.,7,6,Easy,Medium,Done,AWS;Docker;Linux
+Resource allocation,"Manage changes to the project scope, project schedule, and project costs.",9,4,Easy,Medium,To Do,Agile;Planning;Scrum
+Implement feature X,Maintain and improve the performance of existing software.,46,7,Medium,High,To Do,Python;SQL;Java
+Implement feature X,Collaborate with other developers on projects.,20,9,Medium,Low,Done,Python;Java;SQL
+Ensure system security,Perform root cause analysis for production errors.,40,7,Hard,Medium,To Do,CI/CD;Linux;Docker
+Train machine learning model,Present information using data visualization techniques.,62,12,Hard,Medium,To Do,Statistics;Data Analysis;R
+Build predictive model,Present information using data visualization techniques.,69,4,Easy,High,To Do,Data Analysis;Machine Learning;Python
+Perform EDA,Present information using data visualization techniques.,29,5,Easy,Low,Done,Machine Learning;Statistics;R
+Automate deployment process,Perform root cause analysis for production errors.,15,4,Easy,Low,In Progress,Linux;Kubernetes;CI/CD
+Manage cloud infrastructure,Implement integrations requested by customers.,51,2,Medium,High,Review,Docker;Linux;CI/CD
+Implement feature X,Maintain and improve the performance of existing software.,62,9,Medium,Medium,Done,Python;Java;JavaScript
+Data cleaning,Propose solutions and strategies to business challenges.,68,6,Easy,Low,Review,Machine Learning;R;Python
+Fix bug Y,Recommend improvements to existing software programs as necessary.,34,12,Hard,Medium,Done,Python;SQL;JavaScript
+Code review,Maintain and improve the performance of existing software.,22,5,Hard,High,Review,Python;C++;JavaScript
+Write test cases,"Create detailed, comprehensive and well-structured test plans and test cases.",51,13,Medium,High,To Do,Quality Assurance;Selenium;Bug Tracking
+Write unit tests,Collaborate with other developers on projects.,44,9,Medium,Medium,To Do,Python;SQL;Java
+Perform EDA,Present information using data visualization techniques.,27,7,Easy,Medium,To Do,Python;Statistics;R
+Implement feature X,Write and maintain software documentation.,37,1,Medium,Medium,Done,JavaScript;SQL;Python
+Perform EDA,Propose solutions and strategies to business challenges.,46,13,Medium,Low,Review,Python;Data Analysis;R
+Code review,Recommend improvements to existing software programs as necessary.,71,4,Hard,High,Review,Python;Java;C++
+Create system documentation,Document interfaces between new and legacy systems.,41,1,Easy,Medium,To Do,System Design;SQL;Testing
+Update project status,Develop a detailed project plan to monitor and track progress.,39,9,Easy,Low,In Progress,Planning;Scrum;Agile
+Automate test scripts,"Identify, record, document thoroughly and track bugs.",41,12,Hard,Low,In Progress,Testing;Bug Tracking;Selenium
+Analyze system requirements,Liaise with users to track additional requirements and features.,68,12,Easy,High,Done,Testing;SQL;Requirements Analysis
+Create project plan,"Manage changes to the project scope, project schedule, and project costs.",30,8,Hard,Low,To Do,Scrum;Communication;Leadership
+Train machine learning model,Build predictive models and machine-learning algorithms.,11,12,Medium,High,In Progress,Statistics;Data Analysis;R
+Conduct system testing,Identify system requirements.,71,8,Medium,Low,In Progress,Requirements Analysis;SQL;UML
+Execute test plans,"Review requirements, specifications and technical design documents.",60,3,Medium,Low,In Progress,Selenium;Quality Assurance;Bug Tracking
+Build predictive model,Combine models through ensemble modeling.,34,12,Hard,Medium,Review,Statistics;Machine Learning;Python
+Perform EDA,Combine models through ensemble modeling.,34,5,Medium,Medium,In Progress,R;Statistics;Machine Learning
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,31,6,Easy,Low,In Progress,R;Statistics;Data Analysis
+Conduct system testing,Identify system requirements.,13,13,Hard,Low,In Progress,Requirements Analysis;UML;Testing
+Build predictive model,Build predictive models and machine-learning algorithms.,52,13,Medium,High,Review,Statistics;Data Analysis;Python
+Monitor system performance,Perform root cause analysis for production errors.,5,9,Medium,Low,To Do,AWS;Linux;CI/CD
+Create system documentation,Identify system requirements.,64,5,Hard,Low,Done,System Design;UML;Testing
+Data cleaning,Propose solutions and strategies to business challenges.,34,11,Easy,Low,Review,Python;Machine Learning;Statistics
+Analyze system requirements,Identify system requirements.,31,7,Easy,Medium,In Progress,UML;SQL;System Design
+Data cleaning,Combine models through ensemble modeling.,70,8,Medium,Medium,Done,Statistics;R;Data Analysis
+Ensure system security,Build tools to reduce occurrences of errors and improve customer experience.,63,12,Medium,Low,To Do,AWS;Kubernetes;Linux
+Code review,Write and maintain software documentation.,47,8,Easy,High,Review,C++;Java;Python
+Update project status,"Manage changes to the project scope, project schedule, and project costs.",43,5,Hard,High,Review,Leadership;Scrum;Agile
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,15,6,Hard,High,To Do,Python;R;Statistics
+Update project status,Develop a detailed project plan to monitor and track progress.,13,6,Easy,High,Done,Communication;Leadership;Planning
+Ensure system security,Implement integrations requested by customers.,63,8,Medium,High,Review,AWS;Linux;Docker
+Create project plan,"Define project scope, goals and deliverables.",71,7,Easy,High,In Progress,Scrum;Communication;Leadership
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",19,10,Hard,High,To Do,Agile;Leadership;Communication
+Create project plan,Develop a detailed project plan to monitor and track progress.,36,7,Hard,High,To Do,Communication;Planning;Scrum
+Risk assessment,"Manage changes to the project scope, project schedule, and project costs.",10,3,Medium,Low,To Do,Leadership;Scrum;Planning
+Implement feature X,Write and maintain software documentation.,55,4,Easy,Medium,In Progress,C++;JavaScript;Python
+Create system documentation,Document interfaces between new and legacy systems.,26,7,Easy,Medium,Review,SQL;System Design;Requirements Analysis
+Train machine learning model,Present information using data visualization techniques.,70,3,Easy,Medium,Review,Statistics;Data Analysis;Machine Learning
+Set up CI/CD pipeline,Perform root cause analysis for production errors.,22,1,Easy,Low,Done,Docker;CI/CD;Linux
+Write test cases,"Design, develop and execute automation scripts.",35,6,Medium,Medium,Review,Selenium;Automation;Testing
+Risk assessment,Coordinate internal resources and third parties/vendors.,67,7,Medium,Low,Done,Communication;Scrum;Leadership
+Perform EDA,Analyze large amounts of information to discover trends and patterns.,20,3,Medium,High,Done,R;Python;Statistics
+Report bugs,"Create detailed, comprehensive and well-structured test plans and test cases.",65,7,Medium,Medium,Done,Bug Tracking;Automation;Selenium
+Ensure system security,Build tools to reduce occurrences of errors and improve customer experience.,62,5,Medium,High,Done,AWS;Docker;CI/CD
+Risk assessment,"Ensure that all projects are delivered on-time, within scope and within budget.",42,8,Easy,Medium,Review,Communication;Agile;Scrum
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",54,3,Hard,High,Done,Leadership;Agile;Scrum
+Update project status,Develop a detailed project plan to monitor and track progress.,6,7,Hard,Low,To Do,Leadership;Agile;Communication
+Set up CI/CD pipeline,Build tools to reduce occurrences of errors and improve customer experience.,53,6,Medium,High,To Do,AWS;Linux;Kubernetes
+Perform regression testing,"Identify, record, document thoroughly and track bugs.",54,10,Hard,High,To Do,Quality Assurance;Testing;Selenium
+Resource allocation,"Define project scope, goals and deliverables.",10,8,Hard,Low,To Do,Communication;Planning;Agile
+Automate deployment process,Deploy updates and fixes.,15,1,Medium,Medium,In Progress,AWS;CI/CD;Kubernetes
+Refactor module Z,Maintain and improve the performance of existing software.,69,6,Hard,High,In Progress,Java;C++;SQL
+Write test cases,"Review requirements, specifications and technical design documents.",56,13,Hard,Low,Review,Automation;Quality Assurance;Selenium
+Write test cases,"Review requirements, specifications and technical design documents.",35,7,Hard,Medium,Review,Bug Tracking;Selenium;Automation
+Ensure system security,Deploy updates and fixes.,27,3,Hard,High,In Progress,CI/CD;Kubernetes;Linux
+Deploy model to production,Present information using data visualization techniques.,51,6,Medium,Medium,In Progress,Machine Learning;Statistics;Python
+Conduct system testing,Analyze and evaluate current systems.,40,4,Easy,Low,Done,Requirements Analysis;UML;Testing
+Execute test plans,"Design, develop and execute automation scripts.",6,9,Easy,High,In Progress,Bug Tracking;Selenium;Automation
+Conduct system testing,Identify system requirements.,51,1,Medium,Low,Review,System Design;Testing;Requirements Analysis
+Conduct system testing,Document interfaces between new and legacy systems.,24,4,Easy,Medium,Review,System Design;SQL;Requirements Analysis
+Perform regression testing,"Create detailed, comprehensive and well-structured test plans and test cases.",59,9,Hard,High,In Progress,Bug Tracking;Quality Assurance;Automation
+Automate deployment process,Deploy updates and fixes.,49,11,Medium,Low,To Do,CI/CD;Kubernetes;Linux
+Create project plan,Develop a detailed project plan to monitor and track progress.,49,12,Medium,Low,Review,Scrum;Leadership;Communication
+Gather user requirements,Liaise with users to track additional requirements and features.,51,6,Medium,Medium,Done,UML;SQL;Requirements Analysis
+Write test cases,"Review requirements, specifications and technical design documents.",59,13,Easy,Low,Review,Automation;Testing;Quality Assurance
+Refactor module Z,Write and maintain software documentation.,22,9,Medium,High,To Do,C++;Python;SQL
+Create system documentation,Liaise with users to track additional requirements and features.,5,12,Easy,High,Done,Testing;SQL;Requirements Analysis
+Manage cloud infrastructure,Deploy updates and fixes.,38,11,Medium,Medium,To Do,Docker;Linux;AWS
+Data cleaning,Present information using data visualization techniques.,5,12,Easy,High,Done,Statistics;Python;Data Analysis
+Write unit tests,Develop and implement new software programs.,28,8,Easy,High,In Progress,C++;Java;JavaScript
+Build predictive model,Combine models through ensemble modeling.,40,9,Easy,Low,Review,Data Analysis;Python;Statistics
+Train machine learning model,Build predictive models and machine-learning algorithms.,57,9,Medium,Medium,To Do,R;Python;Statistics
+Write unit tests,Maintain and improve the performance of existing software.,69,11,Medium,Low,In Progress,SQL;C++;JavaScript
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",23,8,Easy,Low,Review,Planning;Agile;Scrum
+Build predictive model,Propose solutions and strategies to business challenges.,14,4,Medium,High,Review,Python;Data Analysis;R
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,7,5,Easy,High,Done,Data Analysis;Python;Machine Learning
+Fix bug Y,Write and maintain software documentation.,32,11,Medium,High,Done,C++;JavaScript;Java
+Gather user requirements,Analyze and evaluate current systems.,66,12,Medium,Low,Review,System Design;Testing;SQL
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",17,9,Hard,Medium,Done,Scrum;Planning;Leadership
+Report bugs,"Create detailed, comprehensive and well-structured test plans and test cases.",35,6,Medium,Medium,To Do,Testing;Automation;Bug Tracking
+Write test cases,"Design, develop and execute automation scripts.",48,2,Medium,High,To Do,Automation;Quality Assurance;Testing
+Build predictive model,Propose solutions and strategies to business challenges.,15,12,Easy,Low,Review,R;Machine Learning;Data Analysis
+Manage cloud infrastructure,Investigate and resolve technical issues.,33,8,Easy,Medium,Done,CI/CD;Docker;Kubernetes
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",63,13,Medium,Low,To Do,Communication;Planning;Leadership
+Set up CI/CD pipeline,Investigate and resolve technical issues.,40,12,Easy,High,To Do,CI/CD;Kubernetes;Linux
+Risk assessment,Coordinate internal resources and third parties/vendors.,37,9,Hard,Low,Done,Leadership;Communication;Planning
+Create system documentation,Identify system requirements.,29,11,Medium,Low,Review,System Design;UML;Testing
+Refactor module Z,Maintain and improve the performance of existing software.,32,5,Hard,Medium,Review,C++;JavaScript;Python
+Update project status,Develop a detailed project plan to monitor and track progress.,65,13,Hard,Medium,In Progress,Scrum;Agile;Leadership
+Update project status,"Define project scope, goals and deliverables.",55,5,Easy,Medium,To Do,Leadership;Communication;Agile
+Perform EDA,Analyze large amounts of information to discover trends and patterns.,21,11,Medium,High,Done,Python;R;Data Analysis
+Code review,Develop and implement new software programs.,5,11,Hard,Low,In Progress,Python;C++;Java
+Analyze system requirements,Document interfaces between new and legacy systems.,71,1,Medium,High,To Do,SQL;Testing;UML
+Automate deployment process,Build tools to reduce occurrences of errors and improve customer experience.,58,6,Hard,Medium,In Progress,Docker;Linux;CI/CD
+Automate test scripts,"Identify, record, document thoroughly and track bugs.",64,13,Hard,Low,Review,Testing;Quality Assurance;Selenium
+Design system architecture,Analyze and evaluate current systems.,34,10,Medium,High,Review,Requirements Analysis;SQL;UML
+Perform regression testing,"Create detailed, comprehensive and well-structured test plans and test cases.",10,10,Easy,High,To Do,Quality Assurance;Selenium;Bug Tracking
+Write test cases,"Review requirements, specifications and technical design documents.",66,5,Hard,Low,To Do,Bug Tracking;Selenium;Quality Assurance
+Automate test scripts,"Identify, record, document thoroughly and track bugs.",50,9,Hard,High,Review,Quality Assurance;Selenium;Testing
+Code review,Develop and implement new software programs.,29,10,Easy,Medium,To Do,JavaScript;Python;Java
+Conduct system testing,Document interfaces between new and legacy systems.,40,11,Medium,Medium,Review,UML;System Design;Requirements Analysis
+Create system documentation,Liaise with users to track additional requirements and features.,47,12,Medium,Medium,To Do,Requirements Analysis;Testing;System Design
+Create project plan,Coordinate internal resources and third parties/vendors.,26,5,Easy,High,Review,Communication;Agile;Planning
+Fix bug Y,Maintain and improve the performance of existing software.,58,12,Medium,High,Review,C++;SQL;Python
+Conduct stakeholder meeting,"Manage changes to the project scope, project schedule, and project costs.",12,8,Medium,High,Done,Communication;Agile;Planning
+Report bugs,"Design, develop and execute automation scripts.",47,4,Medium,High,Done,Bug Tracking;Testing;Selenium
+Report bugs,"Design, develop and execute automation scripts.",51,9,Hard,Medium,In Progress,Selenium;Quality Assurance;Testing
+Refactor module Z,Maintain and improve the performance of existing software.,29,3,Medium,Low,In Progress,JavaScript;C++;Java
+Write test cases,"Create detailed, comprehensive and well-structured test plans and test cases.",21,11,Medium,Low,In Progress,Quality Assurance;Automation;Testing
+Resource allocation,Develop a detailed project plan to monitor and track progress.,18,4,Medium,Low,In Progress,Leadership;Agile;Scrum
+Train machine learning model,Combine models through ensemble modeling.,70,12,Easy,Low,To Do,Data Analysis;Python;Statistics
+Write unit tests,Recommend improvements to existing software programs as necessary.,16,12,Medium,Medium,Done,Java;Python;C++
+Build predictive model,Combine models through ensemble modeling.,53,2,Hard,Low,To Do,R;Statistics;Data Analysis
+Perform EDA,Build predictive models and machine-learning algorithms.,62,1,Hard,High,To Do,R;Python;Data Analysis
+Train machine learning model,Propose solutions and strategies to business challenges.,23,5,Medium,Low,In Progress,Data Analysis;Python;Statistics
+Write test cases,"Estimate, prioritize, plan and coordinate testing activities.",14,10,Hard,High,In Progress,Quality Assurance;Automation;Testing
+Conduct system testing,Identify system requirements.,40,10,Medium,High,Done,UML;SQL;System Design
+Risk assessment,"Define project scope, goals and deliverables.",50,13,Hard,High,Review,Communication;Planning;Scrum
+Risk assessment,Coordinate internal resources and third parties/vendors.,57,4,Easy,High,Review,Planning;Scrum;Agile
+Ensure system security,Investigate and resolve technical issues.,44,11,Hard,Medium,Review,CI/CD;Docker;Linux
+Perform EDA,Build predictive models and machine-learning algorithms.,43,7,Easy,Low,Review,Machine Learning;Statistics;R
+Fix bug Y,Write and maintain software documentation.,50,2,Easy,High,Review,C++;SQL;Java
+Write unit tests,Recommend improvements to existing software programs as necessary.,57,7,Medium,Low,Review,C++;JavaScript;Java
+Set up CI/CD pipeline,Implement integrations requested by customers.,18,8,Hard,High,To Do,Docker;CI/CD;Kubernetes
+Monitor system performance,Implement integrations requested by customers.,19,5,Medium,Low,To Do,Linux;CI/CD;Docker
+Code review,Maintain and improve the performance of existing software.,43,13,Easy,High,Done,Java;C++;SQL
+Create system documentation,Liaise with users to track additional requirements and features.,63,12,Hard,High,Review,SQL;UML;System Design
+Resource allocation,Coordinate internal resources and third parties/vendors.,34,12,Medium,Medium,Review,Planning;Agile;Communication
+Update project status,"Ensure that all projects are delivered on-time, within scope and within budget.",31,13,Medium,Low,Done,Planning;Agile;Communication
+Write test cases,"Design, develop and execute automation scripts.",55,1,Medium,Medium,To Do,Bug Tracking;Automation;Selenium
+Analyze system requirements,Collaborate with IT team and developers to produce new systems.,11,11,Hard,Medium,To Do,SQL;Testing;System Design
+Fix bug Y,Write and maintain software documentation.,63,3,Medium,High,Review,Python;JavaScript;C++
+Write test cases,"Estimate, prioritize, plan and coordinate testing activities.",30,10,Hard,Low,In Progress,Automation;Selenium;Quality Assurance
+Execute test plans,"Create detailed, comprehensive and well-structured test plans and test cases.",31,10,Medium,Low,In Progress,Automation;Bug Tracking;Quality Assurance
+Design system architecture,Analyze and evaluate current systems.,7,7,Hard,Medium,To Do,SQL;System Design;UML
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,21,8,Hard,Medium,Review,Data Analysis;Statistics;Machine Learning
+Train machine learning model,Propose solutions and strategies to business challenges.,8,7,Easy,High,Done,Statistics;Python;Data Analysis
+Resource allocation,"Ensure that all projects are delivered on-time, within scope and within budget.",15,9,Hard,Medium,Review,Scrum;Planning;Communication
+Deploy model to production,Present information using data visualization techniques.,56,6,Hard,High,Review,Statistics;Data Analysis;Python
+Perform EDA,Propose solutions and strategies to business challenges.,64,3,Easy,Low,To Do,Python;Statistics;Machine Learning
+Ensure system security,Implement integrations requested by customers.,54,8,Easy,Low,To Do,AWS;Docker;Kubernetes
+Code review,Collaborate with other developers on projects.,28,5,Hard,High,In Progress,SQL;JavaScript;Java
+Conduct system testing,Document interfaces between new and legacy systems.,21,10,Hard,Low,In Progress,SQL;UML;Testing
+Design system architecture,Document interfaces between new and legacy systems.,19,3,Medium,Low,To Do,Testing;UML;System Design
+Monitor system performance,Investigate and resolve technical issues.,44,9,Easy,High,Review,AWS;CI/CD;Docker
+Deploy model to production,Combine models through ensemble modeling.,72,8,Hard,High,To Do,Python;Machine Learning;Statistics
+Code review,Collaborate with other developers on projects.,48,7,Easy,Low,In Progress,Java;JavaScript;SQL
+Train machine learning model,Analyze large amounts of information to discover trends and patterns.,72,10,Medium,Medium,In Progress,R;Data Analysis;Python
+Analyze system requirements,Identify system requirements.,29,11,Medium,Low,To Do,UML;System Design;Testing
+Resource allocation,"Manage changes to the project scope, project schedule, and project costs.",11,6,Easy,Medium,In Progress,Agile;Leadership;Communication
+Write unit tests,Write and maintain software documentation.,21,10,Easy,High,To Do,Python;Java;JavaScript
+Implement feature X,Collaborate with other developers on projects.,29,11,Hard,High,Review,C++;Python;Java
+Ensure system security,Implement integrations requested by customers.,69,5,Easy,High,Review,Docker;CI/CD;Kubernetes
+Manage cloud infrastructure,Implement integrations requested by customers.,27,5,Medium,High,To Do,AWS;CI/CD;Docker
+Automate deployment process,Implement integrations requested by customers.,21,10,Easy,High,In Progress,Kubernetes;Linux;AWS
+Manage cloud infrastructure,Build tools to reduce occurrences of errors and improve customer experience.,17,2,Hard,Medium,Review,AWS;Docker;Kubernetes
+Build predictive model,Propose solutions and strategies to business challenges.,33,11,Easy,Low,Review,Statistics;Python;Machine Learning
+Set up CI/CD pipeline,Investigate and resolve technical issues.,30,3,Easy,Low,Done,Docker;CI/CD;Linux
+Perform regression testing,"Identify, record, document thoroughly and track bugs.",10,1,Easy,Low,To Do,Bug Tracking;Automation;Quality Assurance
+Perform EDA,Build predictive models and machine-learning algorithms.,43,9,Easy,Low,To Do,Python;Machine Learning;R
+Fix bug Y,Recommend improvements to existing software programs as necessary.,61,4,Medium,Low,Done,SQL;Python;C++
+Create project plan,"Ensure that all projects are delivered on-time, within scope and within budget.",65,4,Easy,High,In Progress,Scrum;Agile;Communication
+Risk assessment,Develop a detailed project plan to monitor and track progress.,37,10,Medium,Low,In Progress,Leadership;Agile;Scrum
+Perform regression testing,"Review requirements, specifications and technical design documents.",52,3,Hard,Low,To Do,Bug Tracking;Quality Assurance;Automation
+Fix bug Y,Maintain and improve the performance of existing software.,29,10,Easy,Low,Review,SQL;Python;C++
+Code review,Develop and implement new software programs.,56,9,Hard,Low,To Do,C++;Java;Python
+Risk assessment,Develop a detailed project plan to monitor and track progress.,21,2,Hard,Medium,In Progress,Agile;Leadership;Scrum
+Execute test plans,"Identify, record, document thoroughly and track bugs.",42,5,Easy,Low,Review,Bug Tracking;Quality Assurance;Selenium
+Train machine learning model,Propose solutions and strategies to business challenges.,45,12,Medium,High,Done,Data Analysis;R;Statistics
+Deploy model to production,Build predictive models and machine-learning algorithms.,70,6,Hard,Medium,To Do,Python;Data Analysis;Statistics
+Build predictive model,Combine models through ensemble modeling.,51,2,Hard,High,Review,Statistics;Data Analysis;Machine Learning
+Execute test plans,"Design, develop and execute automation scripts.",61,3,Medium,Medium,In Progress,Automation;Bug Tracking;Testing
+Update project status,Develop a detailed project plan to monitor and track progress.,25,4,Medium,Low,Review,Scrum;Communication;Leadership
+Perform regression testing,"Identify, record, document thoroughly and track bugs.",66,5,Easy,Low,To Do,Selenium;Testing;Quality Assurance
+Train machine learning model,Propose solutions and strategies to business challenges.,53,9,Hard,Low,To Do,R;Python;Statistics
+Design system architecture,Document interfaces between new and legacy systems.,59,13,Medium,Medium,In Progress,SQL;Testing;UML
+Train machine learning model,Combine models through ensemble modeling.,12,4,Hard,High,To Do,Statistics;R;Machine Learning
+Manage cloud infrastructure,Build tools to reduce occurrences of errors and improve customer experience.,11,1,Easy,Low,In Progress,Linux;Docker;Kubernetes
+Conduct system testing,Identify system requirements.,7,2,Medium,High,To Do,Testing;UML;System Design
+Analyze system requirements,Liaise with users to track additional requirements and features.,17,4,Medium,Medium,Done,Testing;SQL;UML
+Code review,Write and maintain software documentation.,54,11,Hard,High,Review,JavaScript;Java;SQL
+Report bugs,"Review requirements, specifications and technical design documents.",69,1,Medium,Medium,In Progress,Bug Tracking;Selenium;Testing
+Data cleaning,Build predictive models and machine-learning algorithms.,37,7,Medium,High,In Progress,Python;R;Statistics
+Data cleaning,Build predictive models and machine-learning algorithms.,51,2,Easy,Low,Done,Machine Learning;Python;Statistics
+Create project plan,"Define project scope, goals and deliverables.",35,8,Medium,Medium,To Do,Communication;Leadership;Agile
+Gather user requirements,Analyze and evaluate current systems.,18,7,Hard,High,Done,Testing;Requirements Analysis;SQL
+Analyze system requirements,Analyze and evaluate current systems.,22,9,Medium,Low,To Do,Requirements Analysis;UML;SQL
+Execute test plans,"Design, develop and execute automation scripts.",42,13,Easy,Medium,Review,Automation;Quality Assurance;Bug Tracking
+Execute test plans,"Create detailed, comprehensive and well-structured test plans and test cases.",65,6,Hard,High,In Progress,Quality Assurance;Testing;Automation
+Set up CI/CD pipeline,Build tools to reduce occurrences of errors and improve customer experience.,57,8,Easy,Low,To Do,Docker;CI/CD;AWS
+Automate test scripts,"Create detailed, comprehensive and well-structured test plans and test cases.",54,7,Easy,High,In Progress,Testing;Bug Tracking;Quality Assurance
+Create system documentation,Document interfaces between new and legacy systems.,35,13,Hard,High,Done,SQL;Requirements Analysis;Testing
+Perform EDA,Combine models through ensemble modeling.,17,1,Easy,Low,To Do,Machine Learning;Python;R
+Design system architecture,Identify system requirements.,14,8,Easy,Medium,Review,UML;Requirements Analysis;Testing
+Data cleaning,Build predictive models and machine-learning algorithms.,5,2,Easy,Low,To Do,Python;Statistics;Machine Learning
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,67,12,Hard,High,Review,Statistics;Python;Machine Learning
+Monitor system performance,Investigate and resolve technical issues.,16,5,Easy,High,Review,CI/CD;Docker;Kubernetes
+Gather user requirements,Collaborate with IT team and developers to produce new systems.,5,13,Medium,High,In Progress,Testing;Requirements Analysis;System Design
+Train machine learning model,Combine models through ensemble modeling.,55,8,Easy,Medium,Review,R;Machine Learning;Data Analysis
+Monitor system performance,Perform root cause analysis for production errors.,30,2,Hard,Medium,To Do,Kubernetes;CI/CD;Docker
+Train machine learning model,Combine models through ensemble modeling.,8,4,Hard,Low,In Progress,Machine Learning;Statistics;Python
+Create project plan,"Ensure that all projects are delivered on-time, within scope and within budget.",51,2,Hard,Low,To Do,Planning;Leadership;Communication
+Automate deployment process,Build tools to reduce occurrences of errors and improve customer experience.,70,11,Hard,Low,To Do,Linux;AWS;Docker
+Fix bug Y,Write and maintain software documentation.,65,6,Easy,High,Review,SQL;Java;JavaScript
+Automate deployment process,Deploy updates and fixes.,12,12,Easy,Medium,Done,Linux;AWS;Docker
+Deploy model to production,Present information using data visualization techniques.,22,9,Medium,Medium,Review,Statistics;Python;Machine Learning
+Analyze system requirements,Liaise with users to track additional requirements and features.,55,12,Medium,High,Review,System Design;Testing;UML
+Code review,Collaborate with other developers on projects.,28,3,Easy,High,In Progress,JavaScript;Python;SQL
+Write unit tests,Write and maintain software documentation.,7,9,Easy,Low,Review,SQL;Python;Java
+Monitor system performance,Investigate and resolve technical issues.,62,2,Medium,Medium,Review,Docker;AWS;Kubernetes
+Execute test plans,"Design, develop and execute automation scripts.",55,1,Medium,Low,Review,Bug Tracking;Automation;Quality Assurance
+Conduct system testing,Analyze and evaluate current systems.,32,1,Hard,Low,Review,Requirements Analysis;Testing;System Design
+Write test cases,"Create detailed, comprehensive and well-structured test plans and test cases.",28,1,Medium,Low,In Progress,Selenium;Quality Assurance;Bug Tracking
+Deploy model to production,Present information using data visualization techniques.,9,6,Hard,Low,To Do,Statistics;R;Data Analysis
+Build predictive model,Analyze large amounts of information to discover trends and patterns.,64,1,Medium,Low,To Do,Machine Learning;Python;Statistics
+Implement feature X,Maintain and improve the performance of existing software.,40,7,Medium,Low,To Do,C++;SQL;Python
+Resource allocation,Develop a detailed project plan to monitor and track progress.,25,2,Hard,Medium,In Progress,Planning;Scrum;Communication
+Data cleaning,Build predictive models and machine-learning algorithms.,62,8,Hard,High,To Do,Data Analysis;Statistics;Python
+Risk assessment,"Define project scope, goals and deliverables.",29,6,Easy,High,To Do,Planning;Agile;Communication
+Perform regression testing,"Identify, record, document thoroughly and track bugs.",27,5,Medium,Low,Done,Bug Tracking;Selenium;Automation
+Train machine learning model,Present information using data visualization techniques.,43,4,Medium,High,Done,Statistics;Machine Learning;Python
+Ensure system security,Deploy updates and fixes.,32,1,Hard,High,Done,Linux;CI/CD;AWS

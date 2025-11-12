@@ -1,0 +1,9 @@
+ssoId,name,email,role,skills,experienceYears,currentWorkload,isAvailable,department
+emp001,John Doe,john.doe@netapp.com,developer,"[{""skill"":""python"",""level"":8},{""skill"":""react"",""level"":6},{""skill"":""mongodb"",""level"":7}]",5,30,true,Engineering
+emp002,Jane Smith,jane.smith@netapp.com,designer,"[{""skill"":""ui"",""level"":9},{""skill"":""figma"",""level"":8},{""skill"":""css"",""level"":7}]",3,20,true,Design
+emp003,Mike Johnson,mike.johnson@netapp.com,developer,"[{""skill"":""java"",""level"":9},{""skill"":""spring"",""level"":8},{""skill"":""docker"",""level"":6}]",7,45,true,Engineering
+emp004,Sarah Wilson,sarah.wilson@netapp.com,tester,"[{""skill"":""testing"",""level"":8},{""skill"":""selenium"",""level"":7},{""skill"":""python"",""level"":5}]",4,25,true,QA
+emp005,David Brown,david.brown@netapp.com,architect,"[{""skill"":""architecture"",""level"":9},{""skill"":""aws"",""level"":8},{""skill"":""microservices"",""level"":9}]",10,60,true,Architecture
+emp006,Lisa Chen,lisa.chen@netapp.com,developer,"[{""skill"":""javascript"",""level"":8},{""skill"":""node"",""level"":7},{""skill"":""mongodb"",""level"":6}]",4,35,true,Engineering
+emp007,Robert Taylor,robert.taylor@netapp.com,manager,"[{""skill"":""management"",""level"":8},{""skill"":""agile"",""level"":9},{""skill"":""leadership"",""level"":8}]",8,70,true,Management
+emp008,Emily Davis,emily.davis@netapp.com,developer,"[{""skill"":""react"",""level"":9},{""skill"":""typescript"",""level"":8},{""skill"":""css"",""level"":7}]",3,15,true,Engineering

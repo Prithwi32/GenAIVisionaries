@@ -1,0 +1,13 @@
+title,description,storyPoints,difficultyLevel,requiredSkills,project
+User Authentication System,Implement secure user login and registration with JWT tokens,13,8,"[""python"",""authentication"",""jwt"",""security""]",NetApp Dashboard
+Landing Page Design,Create modern and responsive landing page with NetApp branding,8,5,"[""ui"",""figma"",""css"",""design""]",Marketing Website
+Database Migration,Migrate existing user data to new MongoDB schema,21,9,"[""mongodb"",""python"",""migration"",""database""]",Data Platform
+API Documentation,Create comprehensive API documentation with examples,5,4,"[""documentation"",""api"",""technical writing""]",Developer Tools
+Mobile App Testing,Comprehensive testing of mobile application across devices,8,6,"[""testing"",""mobile"",""selenium"",""automation""]",Mobile Platform
+Microservices Architecture,Design and implement microservices for user management,34,10,"[""architecture"",""microservices"",""docker"",""kubernetes""]",Platform Redesign
+React Component Library,Build reusable component library for frontend applications,21,7,"[""react"",""typescript"",""component design"",""storybook""]",UI Framework
+Performance Optimization,Optimize database queries and API response times,13,8,"[""performance"",""database"",""optimization"",""monitoring""]",Performance Initiative
+CI/CD Pipeline Setup,Implement automated build and deployment pipeline,8,6,"[""devops"",""ci/cd"",""docker"",""automation""]",Infrastructure
+User Experience Research,Conduct user research and usability testing for new features,5,3,"[""ux research"",""user testing"",""analysis""]",UX Research
+Security Audit,Perform comprehensive security audit of web applications,13,9,"[""security"",""penetration testing"",""vulnerability assessment""]",Security Initiative
+Data Analytics Dashboard,Create interactive dashboard for business analytics,21,8,"[""data visualization"",""analytics"",""dashboard"",""charts""]",Business Intelligence

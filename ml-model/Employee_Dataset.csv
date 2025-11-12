@@ -1,0 +1,201 @@
+SSO ID,Full Name,Email,Role,Experience (Years),Current Workload (%),Department,Skills
+1,Vihaan Singh,vihaan.singh@netapp.com,DevOps Engineer,20,70,Quality Assurance,Linux;Docker;Kubernetes
+2,Diya Patel,diya.patel@netapp.com,DevOps Engineer,16,36,Data Science,Kubernetes;Linux;AWS
+3,Ishaan Sharma,ishaan.sharma@netapp.com,DevOps Engineer,19,88,Quality Assurance,Kubernetes;Linux;Docker
+4,Vihaan Reddy,vihaan.reddy@netapp.com,Software Engineer,10,48,Management,Java;C++;SQL
+5,Kiara Patel,kiara.patel@netapp.com,Data Scientist,14,17,Quality Assurance,Data Analysis;Python;R
+6,Aarohi Sharma,aarohi.sharma@netapp.com,DevOps Engineer,12,53,Operations,Linux;CI/CD;AWS
+7,Aditya Sharma,aditya.sharma@netapp.com,QA Engineer,16,75,Management,Testing;Automation;Selenium
+8,Kiara Gupta,kiara.gupta@netapp.com,Software Engineer,15,60,Operations,SQL;JavaScript;C++
+9,Ananya Jain,ananya.jain@netapp.com,Software Engineer,2,18,Data Science,Java;SQL;Python
+10,Ananya Sharma,ananya.sharma@netapp.com,Project Manager,18,60,Engineering,Leadership;Communication;Planning
+11,Aditya Chopra,aditya.chopra@netapp.com,QA Engineer,20,92,Operations,Automation;Quality Assurance;Selenium
+12,Vivaan Singh,vivaan.singh@netapp.com,Data Scientist,3,15,Management,Data Analysis;Statistics;Python
+13,Ishaan Sharma,ishaan.sharma@netapp.com,Project Manager,12,100,Operations,Communication;Scrum;Leadership
+14,Ananya Verma,ananya.verma@netapp.com,Data Scientist,11,66,Engineering,Python;Data Analysis;R
+15,Ananya Reddy,ananya.reddy@netapp.com,QA Engineer,2,59,Data Science,Quality Assurance;Selenium;Automation
+16,Diya Nair,diya.nair@netapp.com,QA Engineer,12,54,Data Science,Testing;Quality Assurance;Bug Tracking
+17,Aditya Patel,aditya.patel@netapp.com,Software Engineer,11,28,Engineering,JavaScript;SQL;C++
+18,Ananya Kapoor,ananya.kapoor@netapp.com,QA Engineer,7,86,Data Science,Selenium;Testing;Quality Assurance
+19,Vivaan Chopra,vivaan.chopra@netapp.com,QA Engineer,13,50,Management,Bug Tracking;Automation;Quality Assurance
+20,Vivaan Chopra,vivaan.chopra@netapp.com,DevOps Engineer,16,13,Engineering,Docker;Linux;AWS
+21,Ishaan Reddy,ishaan.reddy@netapp.com,Data Scientist,19,34,Data Science,Statistics;Python;Data Analysis
+22,Vihaan Sharma,vihaan.sharma@netapp.com,System Analyst,19,26,Operations,Testing;Requirements Analysis;System Design
+23,Aarohi Reddy,aarohi.reddy@netapp.com,DevOps Engineer,4,26,Management,CI/CD;Linux;Docker
+24,Aadhya Verma,aadhya.verma@netapp.com,Project Manager,14,95,Management,Communication;Planning;Scrum
+25,Vihaan Chopra,vihaan.chopra@netapp.com,Data Scientist,15,98,Management,R;Statistics;Python
+26,Vihaan Verma,vihaan.verma@netapp.com,Project Manager,1,67,Engineering,Communication;Leadership;Planning
+27,Ishaan Jain,ishaan.jain@netapp.com,System Analyst,20,18,Operations,System Design;SQL;UML
+28,Kiara Kapoor,kiara.kapoor@netapp.com,QA Engineer,10,83,Management,Automation;Selenium;Bug Tracking
+29,Kiara Sharma,kiara.sharma@netapp.com,DevOps Engineer,10,28,Data Science,Linux;Kubernetes;AWS
+30,Aditya Gupta,aditya.gupta@netapp.com,System Analyst,6,100,Data Science,System Design;Testing;UML
+31,Kiara Chopra,kiara.chopra@netapp.com,System Analyst,14,80,Operations,System Design;Requirements Analysis;SQL
+32,Aarohi Verma,aarohi.verma@netapp.com,Software Engineer,17,75,Data Science,Java;JavaScript;C++
+33,Ananya Chopra,ananya.chopra@netapp.com,Software Engineer,6,41,Quality Assurance,C++;Java;SQL
+34,Ananya Sharma,ananya.sharma@netapp.com,Project Manager,14,68,Management,Communication;Leadership;Agile
+35,Aarohi Singh,aarohi.singh@netapp.com,DevOps Engineer,20,29,Management,Docker;Linux;Kubernetes
+36,Aditya Chopra,aditya.chopra@netapp.com,System Analyst,9,96,Management,UML;Testing;SQL
+37,Diya Chopra,diya.chopra@netapp.com,Software Engineer,9,26,Quality Assurance,C++;Java;SQL
+38,Aadhya Reddy,aadhya.reddy@netapp.com,QA Engineer,1,21,Data Science,Automation;Quality Assurance;Bug Tracking
+39,Aadhya Chopra,aadhya.chopra@netapp.com,System Analyst,16,82,Quality Assurance,Requirements Analysis;UML;SQL
+40,Diya Reddy,diya.reddy@netapp.com,QA Engineer,13,20,Engineering,Testing;Automation;Quality Assurance
+41,Aditya Kapoor,aditya.kapoor@netapp.com,Project Manager,17,43,Data Science,Scrum;Agile;Leadership
+42,Aarohi Kapoor,aarohi.kapoor@netapp.com,Data Scientist,1,84,Management,R;Python;Machine Learning
+43,Ananya Jain,ananya.jain@netapp.com,Software Engineer,6,87,Engineering,JavaScript;C++;Python
+44,Aarav Gupta,aarav.gupta@netapp.com,DevOps Engineer,17,95,Operations,Linux;AWS;Docker
+45,Ananya Jain,ananya.jain@netapp.com,Data Scientist,1,34,Operations,R;Python;Machine Learning
+46,Aadhya Gupta,aadhya.gupta@netapp.com,Project Manager,7,38,Data Science,Communication;Agile;Leadership
+47,Kiara Jain,kiara.jain@netapp.com,Data Scientist,12,66,Operations,Data Analysis;R;Machine Learning
+48,Diya Verma,diya.verma@netapp.com,Data Scientist,18,43,Quality Assurance,Python;Statistics;Data Analysis
+49,Aditya Gupta,aditya.gupta@netapp.com,Data Scientist,4,96,Operations,R;Machine Learning;Data Analysis
+50,Aadhya Patel,aadhya.patel@netapp.com,QA Engineer,4,19,Quality Assurance,Selenium;Bug Tracking;Quality Assurance
+51,Diya Patel,diya.patel@netapp.com,System Analyst,5,77,Quality Assurance,Requirements Analysis;System Design;SQL
+52,Aarav Singh,aarav.singh@netapp.com,Software Engineer,3,56,Operations,Java;Python;SQL
+53,Aarav Sharma,aarav.sharma@netapp.com,Data Scientist,17,60,Operations,Statistics;Machine Learning;Python
+54,Vihaan Singh,vihaan.singh@netapp.com,Project Manager,1,58,Management,Leadership;Planning;Communication
+55,Aadhya Reddy,aadhya.reddy@netapp.com,DevOps Engineer,4,54,Operations,AWS;Linux;Kubernetes
+56,Vihaan Nair,vihaan.nair@netapp.com,QA Engineer,2,82,Data Science,Bug Tracking;Automation;Quality Assurance
+57,Diya Verma,diya.verma@netapp.com,Software Engineer,6,28,Management,Python;Java;C++
+58,Vivaan Reddy,vivaan.reddy@netapp.com,Software Engineer,14,23,Management,Python;JavaScript;Java
+59,Ananya Gupta,ananya.gupta@netapp.com,Software Engineer,6,64,Management,SQL;C++;JavaScript
+60,Ananya Jain,ananya.jain@netapp.com,System Analyst,16,64,Operations,SQL;System Design;Testing
+61,Aadhya Patel,aadhya.patel@netapp.com,Project Manager,16,61,Data Science,Leadership;Communication;Agile
+62,Vihaan Patel,vihaan.patel@netapp.com,System Analyst,4,93,Operations,Requirements Analysis;Testing;System Design
+63,Aarohi Verma,aarohi.verma@netapp.com,Project Manager,5,26,Engineering,Leadership;Planning;Communication
+64,Aarav Chopra,aarav.chopra@netapp.com,QA Engineer,4,10,Management,Bug Tracking;Automation;Selenium
+65,Aarav Singh,aarav.singh@netapp.com,Data Scientist,6,18,Data Science,R;Machine Learning;Data Analysis
+66,Vivaan Singh,vivaan.singh@netapp.com,DevOps Engineer,17,95,Engineering,Docker;AWS;Kubernetes
+67,Vivaan Jain,vivaan.jain@netapp.com,DevOps Engineer,14,64,Engineering,Linux;AWS;CI/CD
+68,Vivaan Singh,vivaan.singh@netapp.com,Software Engineer,15,43,Engineering,SQL;Java;Python
+69,Vihaan Nair,vihaan.nair@netapp.com,System Analyst,9,87,Data Science,SQL;Requirements Analysis;System Design
+70,Aadhya Nair,aadhya.nair@netapp.com,Software Engineer,2,96,Data Science,Python;Java;C++
+71,Ananya Chopra,ananya.chopra@netapp.com,QA Engineer,8,71,Management,Automation;Selenium;Testing
+72,Aarohi Patel,aarohi.patel@netapp.com,DevOps Engineer,18,56,Quality Assurance,Kubernetes;Linux;Docker
+73,Vihaan Singh,vihaan.singh@netapp.com,QA Engineer,14,79,Operations,Selenium;Bug Tracking;Automation
+74,Ananya Jain,ananya.jain@netapp.com,DevOps Engineer,16,62,Quality Assurance,Docker;CI/CD;AWS
+75,Ishaan Verma,ishaan.verma@netapp.com,System Analyst,17,11,Engineering,SQL;UML;System Design
+76,Aadhya Sharma,aadhya.sharma@netapp.com,DevOps Engineer,7,10,Management,Docker;Kubernetes;AWS
+77,Aditya Gupta,aditya.gupta@netapp.com,Project Manager,7,100,Data Science,Scrum;Communication;Agile
+78,Aditya Gupta,aditya.gupta@netapp.com,DevOps Engineer,18,58,Operations,Kubernetes;AWS;Docker
+79,Ishaan Kapoor,ishaan.kapoor@netapp.com,Project Manager,14,58,Data Science,Communication;Leadership;Scrum
+80,Kiara Chopra,kiara.chopra@netapp.com,QA Engineer,14,23,Management,Automation;Selenium;Testing
+81,Vihaan Reddy,vihaan.reddy@netapp.com,Project Manager,14,92,Engineering,Communication;Agile;Scrum
+82,Ishaan Kapoor,ishaan.kapoor@netapp.com,Software Engineer,2,67,Data Science,SQL;Python;Java
+83,Ananya Gupta,ananya.gupta@netapp.com,Data Scientist,16,54,Engineering,R;Machine Learning;Statistics
+84,Ananya Verma,ananya.verma@netapp.com,QA Engineer,9,34,Operations,Bug Tracking;Quality Assurance;Automation
+85,Aditya Chopra,aditya.chopra@netapp.com,DevOps Engineer,13,21,Engineering,Docker;Kubernetes;CI/CD
+86,Aadhya Gupta,aadhya.gupta@netapp.com,Data Scientist,12,61,Management,Statistics;Data Analysis;Python
+87,Aadhya Patel,aadhya.patel@netapp.com,DevOps Engineer,4,78,Quality Assurance,AWS;Docker;Kubernetes
+88,Kiara Nair,kiara.nair@netapp.com,System Analyst,11,60,Quality Assurance,Testing;UML;SQL
+89,Kiara Reddy,kiara.reddy@netapp.com,Software Engineer,2,33,Management,C++;SQL;Java
+90,Aadhya Reddy,aadhya.reddy@netapp.com,Software Engineer,5,18,Quality Assurance,Java;C++;JavaScript
+91,Ananya Kapoor,ananya.kapoor@netapp.com,DevOps Engineer,7,73,Data Science,AWS;Docker;Kubernetes
+92,Aadhya Kapoor,aadhya.kapoor@netapp.com,Software Engineer,4,81,Management,C++;Python;JavaScript
+93,Aarohi Nair,aarohi.nair@netapp.com,Software Engineer,17,83,Engineering,Java;Python;SQL
+94,Vivaan Nair,vivaan.nair@netapp.com,QA Engineer,6,58,Quality Assurance,Quality Assurance;Bug Tracking;Testing
+95,Aditya Chopra,aditya.chopra@netapp.com,Software Engineer,14,79,Engineering,Python;JavaScript;SQL
+96,Vihaan Nair,vihaan.nair@netapp.com,Data Scientist,3,26,Management,Machine Learning;Data Analysis;Python
+97,Aarav Patel,aarav.patel@netapp.com,Project Manager,11,91,Engineering,Agile;Communication;Scrum
+98,Aarav Patel,aarav.patel@netapp.com,Data Scientist,18,62,Engineering,R;Python;Statistics
+99,Diya Reddy,diya.reddy@netapp.com,QA Engineer,19,90,Operations,Automation;Selenium;Quality Assurance
+100,Vihaan Gupta,vihaan.gupta@netapp.com,Project Manager,8,41,Management,Communication;Scrum;Planning
+101,Aditya Sharma,aditya.sharma@netapp.com,Data Scientist,3,58,Management,Machine Learning;Data Analysis;Statistics
+102,Aditya Reddy,aditya.reddy@netapp.com,System Analyst,14,75,Operations,UML;Requirements Analysis;SQL
+103,Aarav Nair,aarav.nair@netapp.com,Project Manager,18,90,Management,Leadership;Planning;Scrum
+104,Aarohi Jain,aarohi.jain@netapp.com,Project Manager,13,80,Operations,Scrum;Leadership;Planning
+105,Vihaan Sharma,vihaan.sharma@netapp.com,Project Manager,10,27,Management,Planning;Leadership;Agile
+106,Ishaan Patel,ishaan.patel@netapp.com,QA Engineer,18,38,Operations,Quality Assurance;Selenium;Bug Tracking
+107,Vivaan Verma,vivaan.verma@netapp.com,DevOps Engineer,13,62,Management,Linux;Docker;CI/CD
+108,Aarohi Nair,aarohi.nair@netapp.com,Software Engineer,6,87,Quality Assurance,C++;SQL;Java
+109,Diya Nair,diya.nair@netapp.com,System Analyst,14,19,Engineering,System Design;SQL;Testing
+110,Vivaan Patel,vivaan.patel@netapp.com,QA Engineer,5,38,Data Science,Testing;Automation;Selenium
+111,Aadhya Jain,aadhya.jain@netapp.com,Software Engineer,9,23,Data Science,Python;C++;JavaScript
+112,Aditya Nair,aditya.nair@netapp.com,QA Engineer,13,50,Quality Assurance,Bug Tracking;Automation;Selenium
+113,Aarohi Gupta,aarohi.gupta@netapp.com,Software Engineer,16,53,Quality Assurance,SQL;Java;JavaScript
+114,Diya Verma,diya.verma@netapp.com,System Analyst,14,63,Quality Assurance,UML;SQL;System Design
+115,Aditya Chopra,aditya.chopra@netapp.com,DevOps Engineer,5,15,Management,CI/CD;AWS;Docker
+116,Vihaan Nair,vihaan.nair@netapp.com,Software Engineer,18,22,Operations,Python;SQL;C++
+117,Vivaan Nair,vivaan.nair@netapp.com,Project Manager,5,20,Quality Assurance,Scrum;Communication;Agile
+118,Vivaan Chopra,vivaan.chopra@netapp.com,QA Engineer,8,45,Quality Assurance,Automation;Selenium;Quality Assurance
+119,Ishaan Patel,ishaan.patel@netapp.com,Project Manager,1,17,Data Science,Planning;Leadership;Agile
+120,Aadhya Nair,aadhya.nair@netapp.com,DevOps Engineer,3,12,Management,CI/CD;Kubernetes;Linux
+121,Diya Nair,diya.nair@netapp.com,QA Engineer,11,32,Data Science,Quality Assurance;Automation;Testing
+122,Diya Kapoor,diya.kapoor@netapp.com,QA Engineer,15,18,Quality Assurance,Selenium;Quality Assurance;Bug Tracking
+123,Vihaan Sharma,vihaan.sharma@netapp.com,System Analyst,17,31,Quality Assurance,System Design;UML;SQL
+124,Ishaan Reddy,ishaan.reddy@netapp.com,Project Manager,16,90,Management,Scrum;Planning;Communication
+125,Aarohi Sharma,aarohi.sharma@netapp.com,System Analyst,4,37,Quality Assurance,Testing;System Design;SQL
+126,Aditya Gupta,aditya.gupta@netapp.com,Project Manager,10,66,Data Science,Agile;Scrum;Planning
+127,Aadhya Sharma,aadhya.sharma@netapp.com,Project Manager,10,16,Engineering,Scrum;Planning;Communication
+128,Vihaan Singh,vihaan.singh@netapp.com,DevOps Engineer,6,27,Engineering,CI/CD;Kubernetes;Linux
+129,Ishaan Nair,ishaan.nair@netapp.com,Project Manager,2,37,Data Science,Agile;Leadership;Planning
+130,Aadhya Reddy,aadhya.reddy@netapp.com,QA Engineer,1,93,Operations,Quality Assurance;Automation;Testing
+131,Aarav Reddy,aarav.reddy@netapp.com,QA Engineer,14,41,Operations,Bug Tracking;Automation;Selenium
+132,Ishaan Chopra,ishaan.chopra@netapp.com,Project Manager,14,61,Management,Planning;Agile;Communication
+133,Aarohi Singh,aarohi.singh@netapp.com,System Analyst,11,71,Quality Assurance,System Design;SQL;Requirements Analysis
+134,Aditya Verma,aditya.verma@netapp.com,Project Manager,20,84,Engineering,Agile;Communication;Scrum
+135,Aditya Singh,aditya.singh@netapp.com,Software Engineer,10,89,Management,C++;Python;JavaScript
+136,Aarav Kapoor,aarav.kapoor@netapp.com,Software Engineer,14,81,Operations,C++;JavaScript;Python
+137,Ishaan Patel,ishaan.patel@netapp.com,Project Manager,1,90,Quality Assurance,Agile;Communication;Scrum
+138,Kiara Verma,kiara.verma@netapp.com,Project Manager,20,34,Management,Planning;Scrum;Agile
+139,Vivaan Chopra,vivaan.chopra@netapp.com,Project Manager,16,20,Management,Planning;Scrum;Leadership
+140,Aarav Verma,aarav.verma@netapp.com,Software Engineer,3,58,Operations,JavaScript;C++;SQL
+141,Aarohi Singh,aarohi.singh@netapp.com,Project Manager,20,98,Operations,Leadership;Planning;Communication
+142,Ishaan Singh,ishaan.singh@netapp.com,QA Engineer,10,56,Data Science,Automation;Quality Assurance;Bug Tracking
+143,Vivaan Nair,vivaan.nair@netapp.com,DevOps Engineer,14,85,Management,Linux;AWS;Kubernetes
+144,Ishaan Verma,ishaan.verma@netapp.com,DevOps Engineer,2,76,Data Science,Docker;Linux;CI/CD
+145,Vivaan Reddy,vivaan.reddy@netapp.com,System Analyst,2,92,Data Science,UML;Testing;System Design
+146,Kiara Kapoor,kiara.kapoor@netapp.com,System Analyst,20,88,Data Science,Requirements Analysis;UML;System Design
+147,Vihaan Patel,vihaan.patel@netapp.com,Project Manager,15,72,Operations,Scrum;Agile;Communication
+148,Vivaan Singh,vivaan.singh@netapp.com,Data Scientist,15,63,Engineering,Python;R;Machine Learning
+149,Ananya Jain,ananya.jain@netapp.com,DevOps Engineer,19,66,Engineering,CI/CD;Kubernetes;Docker
+150,Aarav Jain,aarav.jain@netapp.com,System Analyst,4,74,Quality Assurance,Testing;System Design;Requirements Analysis
+151,Ananya Chopra,ananya.chopra@netapp.com,Data Scientist,20,10,Data Science,Statistics;Python;Data Analysis
+152,Ishaan Kapoor,ishaan.kapoor@netapp.com,QA Engineer,18,75,Management,Testing;Bug Tracking;Quality Assurance
+153,Aarav Reddy,aarav.reddy@netapp.com,DevOps Engineer,12,78,Operations,Docker;Kubernetes;Linux
+154,Diya Patel,diya.patel@netapp.com,QA Engineer,17,92,Management,Bug Tracking;Testing;Quality Assurance
+155,Ishaan Patel,ishaan.patel@netapp.com,Data Scientist,9,78,Data Science,Python;Machine Learning;Statistics
+156,Ishaan Nair,ishaan.nair@netapp.com,System Analyst,3,54,Quality Assurance,SQL;Requirements Analysis;UML
+157,Vivaan Kapoor,vivaan.kapoor@netapp.com,Software Engineer,18,32,Management,SQL;Python;C++
+158,Aarav Singh,aarav.singh@netapp.com,Software Engineer,17,31,Engineering,SQL;Python;Java
+159,Diya Chopra,diya.chopra@netapp.com,DevOps Engineer,20,96,Engineering,Linux;Kubernetes;AWS
+160,Aarohi Reddy,aarohi.reddy@netapp.com,Project Manager,18,57,Engineering,Agile;Scrum;Leadership
+161,Kiara Reddy,kiara.reddy@netapp.com,Software Engineer,4,63,Management,SQL;Python;Java
+162,Ananya Reddy,ananya.reddy@netapp.com,Software Engineer,4,17,Data Science,SQL;JavaScript;C++
+163,Vivaan Gupta,vivaan.gupta@netapp.com,System Analyst,9,94,Quality Assurance,UML;Testing;System Design
+164,Aadhya Kapoor,aadhya.kapoor@netapp.com,Software Engineer,4,100,Engineering,C++;JavaScript;SQL
+165,Vihaan Gupta,vihaan.gupta@netapp.com,Project Manager,6,72,Quality Assurance,Agile;Leadership;Planning
+166,Aadhya Sharma,aadhya.sharma@netapp.com,Project Manager,14,53,Management,Communication;Scrum;Leadership
+167,Aditya Verma,aditya.verma@netapp.com,Data Scientist,6,47,Operations,Python;Data Analysis;Machine Learning
+168,Aditya Patel,aditya.patel@netapp.com,Project Manager,16,56,Data Science,Scrum;Planning;Agile
+169,Aarohi Verma,aarohi.verma@netapp.com,QA Engineer,13,22,Management,Quality Assurance;Automation;Bug Tracking
+170,Aarohi Verma,aarohi.verma@netapp.com,Data Scientist,13,43,Quality Assurance,R;Statistics;Data Analysis
+171,Kiara Sharma,kiara.sharma@netapp.com,Data Scientist,12,63,Management,Machine Learning;Python;Statistics
+172,Ishaan Jain,ishaan.jain@netapp.com,Data Scientist,6,40,Management,R;Machine Learning;Python
+173,Vihaan Jain,vihaan.jain@netapp.com,Software Engineer,16,30,Operations,C++;Python;SQL
+174,Kiara Kapoor,kiara.kapoor@netapp.com,Data Scientist,10,64,Engineering,Machine Learning;R;Data Analysis
+175,Aarav Kapoor,aarav.kapoor@netapp.com,DevOps Engineer,18,64,Quality Assurance,Docker;Kubernetes;CI/CD
+176,Vivaan Jain,vivaan.jain@netapp.com,DevOps Engineer,14,75,Engineering,Linux;CI/CD;Docker
+177,Aarohi Patel,aarohi.patel@netapp.com,System Analyst,17,83,Engineering,SQL;System Design;Requirements Analysis
+178,Ishaan Patel,ishaan.patel@netapp.com,System Analyst,11,96,Engineering,Testing;System Design;SQL
+179,Aadhya Patel,aadhya.patel@netapp.com,System Analyst,3,24,Operations,System Design;SQL;Testing
+180,Aarav Reddy,aarav.reddy@netapp.com,Software Engineer,15,87,Operations,C++;SQL;Java
+181,Kiara Jain,kiara.jain@netapp.com,DevOps Engineer,4,85,Quality Assurance,Kubernetes;Linux;AWS
+182,Aadhya Chopra,aadhya.chopra@netapp.com,DevOps Engineer,5,88,Management,CI/CD;Docker;Kubernetes
+183,Diya Verma,diya.verma@netapp.com,Software Engineer,15,20,Data Science,Python;JavaScript;C++
+184,Aarav Kapoor,aarav.kapoor@netapp.com,System Analyst,18,10,Quality Assurance,UML;Requirements Analysis;Testing
+185,Vihaan Chopra,vihaan.chopra@netapp.com,Software Engineer,4,83,Management,SQL;Java;Python
+186,Aarohi Nair,aarohi.nair@netapp.com,System Analyst,12,99,Management,SQL;UML;System Design
+187,Ishaan Jain,ishaan.jain@netapp.com,DevOps Engineer,8,20,Management,Docker;CI/CD;Kubernetes
+188,Aadhya Gupta,aadhya.gupta@netapp.com,DevOps Engineer,11,39,Operations,CI/CD;Docker;AWS
+189,Kiara Verma,kiara.verma@netapp.com,QA Engineer,8,75,Management,Automation;Quality Assurance;Bug Tracking
+190,Vivaan Verma,vivaan.verma@netapp.com,DevOps Engineer,13,83,Engineering,Kubernetes;CI/CD;AWS
+191,Ishaan Verma,ishaan.verma@netapp.com,Data Scientist,1,50,Engineering,Statistics;Machine Learning;Data Analysis
+192,Vivaan Kapoor,vivaan.kapoor@netapp.com,Software Engineer,10,47,Quality Assurance,Java;C++;SQL
+193,Ananya Nair,ananya.nair@netapp.com,Project Manager,13,94,Engineering,Agile;Leadership;Scrum
+194,Vivaan Chopra,vivaan.chopra@netapp.com,QA Engineer,17,53,Data Science,Selenium;Automation;Bug Tracking
+195,Aditya Gupta,aditya.gupta@netapp.com,Project Manager,19,66,Operations,Scrum;Planning;Leadership
+196,Aadhya Gupta,aadhya.gupta@netapp.com,Data Scientist,13,55,Data Science,Data Analysis;R;Machine Learning
+197,Aarohi Patel,aarohi.patel@netapp.com,Data Scientist,12,29,Management,Machine Learning;Python;R
+198,Kiara Gupta,kiara.gupta@netapp.com,Project Manager,8,13,Management,Communication;Scrum;Leadership
+199,Vivaan Nair,vivaan.nair@netapp.com,DevOps Engineer,5,33,Operations,Docker;Kubernetes;CI/CD
+200,Vivaan Reddy,vivaan.reddy@netapp.com,DevOps Engineer,1,74,Quality Assurance,CI/CD;Linux;AWS

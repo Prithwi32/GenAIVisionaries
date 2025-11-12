@@ -1,0 +1,256 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Dark mode scrollbar */
+@media (prefers-color-scheme: dark) {
+  ::-webkit-scrollbar-track {
+    background: #1e293b;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #475569;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #64748b;
+  }
+}
+
+/* Firefox scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #cbd5e1 #f1f5f9;
+}
+
+/* NetApp brand colors */
+.bg-netapp-primary {
+  background-color: #0067C5;
+}
+
+.bg-netapp-secondary {
+  background-color: #00A1C9;
+}
+
+.bg-netapp-dark {
+  background-color: #003C71;
+}
+
+.bg-netapp-light {
+  background-color: #E8F4FD;
+}
+
+.bg-netapp-orange {
+  background-color: #FF6B35;
+}
+
+.text-netapp-primary {
+  color: #0067C5;
+}
+
+.text-netapp-secondary {
+  color: #00A1C9;
+}
+
+.text-netapp-dark {
+  color: #003C71;
+}
+
+.text-netapp-orange {
+  color: #FF6B35;
+}
+
+/* Custom utilities */
+.full-height {
+  height: 100vh;
+}
+
+.scrollable {
+  overflow-y: auto;
+  max-height: calc(100vh - 200px);
+}
+
+/* Button styles */
+.btn-primary {
+  @apply bg-netapp-primary text-white font-medium px-6 py-3 rounded-lg hover:bg-netapp-dark transition-colors duration-200 inline-flex items-center;
+}
+
+.btn-secondary {
+  @apply bg-netapp-secondary text-white border-2 border-netapp-secondary hover:bg-netapp-secondary font-medium px-6 py-3 rounded-lg transition-colors duration-200;
+}
+
+.btn-outline {
+  @apply border border-gray-300 text-gray-700 hover:bg-gray-50 font-medium px-4 py-2 rounded-lg transition-colors duration-200;
+}
+
+.btn-danger {
+  @apply bg-red-600 text-white hover:bg-red-700 font-medium px-4 py-2 rounded-lg transition-colors duration-200;
+}
+
+/* Card styles */
+.card {
+  @apply bg-white rounded-xl shadow-md p-6 hover:shadow-lg transition-shadow duration-200;
+}
+
+.card-header {
+  @apply border-b border-gray-200 pb-4 mb-4;
+}
+
+.card-title {
+  @apply text-lg font-semibold text-gray-900;
+}
+
+.card-content {
+  @apply text-gray-600;
+}
+
+/* Form styles */
+.form-input {
+  @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-netapp-primary focus:border-transparent outline-none transition-all duration-200;
+}
+
+.form-label {
+  @apply block text-sm font-medium text-gray-700 mb-2;
+}
+
+.form-select {
+  @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-netapp-primary focus:border-transparent outline-none appearance-none bg-white transition-all duration-200;
+}
+
+.form-textarea {
+  @apply w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-netapp-primary focus:border-transparent outline-none resize-y transition-all duration-200;
+}
+
+/* Navigation styles */
+.nav-link {
+  @apply text-gray-600 hover:text-netapp-primary font-medium transition-colors duration-200;
+}
+
+.nav-link-active {
+  @apply text-netapp-primary font-medium border-b-2 border-netapp-primary;
+}
+
+/* Sidebar navigation styles */
+.sidebar-item {
+  @apply flex items-center px-3 py-2 text-gray-700 hover:bg-gray-100 hover:text-netapp-primary rounded-lg transition-colors duration-200 whitespace-nowrap;
+}
+
+.sidebar-item.active {
+  @apply bg-netapp-light text-netapp-primary font-medium;
+}
+
+/* Kanban column scrollbar */
+.kanban-column {
+  scrollbar-width: thin;
+  scrollbar-color: #0067C5 #f1f5f9;
+  overflow-y: auto !important;
+  /* Ensure scrollbar is always visible when content overflows */
+}
+
+.kanban-column::-webkit-scrollbar {
+  width: 8px;
+  display: block;
+}
+
+.kanban-column::-webkit-scrollbar-track {
+  background: #f1f5f9;
+  border-radius: 4px;
+  border: 1px solid #e2e8f0;
+}
+
+.kanban-column::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #0067C5 0%, #004d93 100%);
+  border-radius: 4px;
+  border: 1px solid rgba(0, 103, 197, 0.2);
+  min-height: 20px;
+}
+
+.kanban-column::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #004d93 0%, #003366 100%);
+}
+
+/* Force the column to have proper scrolling behavior */
+.kanban-column::-webkit-scrollbar-corner {
+  background: #f1f5f9;
+}
+
+/* Status badges */
+.status-pending {
+  @apply bg-yellow-100 text-yellow-800 px-2 py-1 rounded-full text-xs font-medium;
+}
+
+.status-in-progress {
+  @apply bg-blue-100 text-blue-800 px-2 py-1 rounded-full text-xs font-medium;
+}
+
+.status-completed {
+  @apply bg-green-100 text-green-800 px-2 py-1 rounded-full text-xs font-medium;
+}
+
+.status-high-priority {
+  @apply bg-red-100 text-red-800 px-2 py-1 rounded-full text-xs font-medium;
+}
+
+.status-medium-priority {
+  @apply bg-orange-100 text-orange-800 px-2 py-1 rounded-full text-xs font-medium;
+}
+
+.status-low-priority {
+  @apply bg-gray-100 text-gray-800 px-2 py-1 rounded-full text-xs font-medium;
+}
+
+/* Layout utilities */
+.container-main {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.page-header {
+  @apply bg-white shadow-sm border-b border-gray-200;
+}
+
+.page-title {
+  @apply text-2xl font-bold text-gray-900;
+}
+
+.page-subtitle {
+  @apply text-gray-600 mt-1;
+}
+
+/* Animation utilities */
+.fade-in {
+  @apply transition-opacity duration-300 ease-in-out;
+}
+
+.slide-up {
+  @apply transition-transform duration-300 ease-in-out;
+}
+
+/* Responsive utilities */
+.mobile-hidden {
+  @apply hidden sm:block;
+}
+
+.mobile-only {
+  @apply block sm:hidden;
+}
